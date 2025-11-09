@@ -1,6 +1,6 @@
 # Portfolio technique – Pedro Mocivuna Nascimento
 
-Ce dépôt contient mon portfolio d’ingénieur, présentant plusieurs projets réalisés à l’École Centrale de Nantes (option MAAS) et à l’Université de Campinas (UNICAMP).
+Ce dépôt contient mon portfolio d’ingénieur, présentant plusieurs projets réalisés à l’École Centrale de Nantes (option MAAS).
 
 ## Accès rapide
 - 📄 [Portfolio complet (PDF)](./Portfolio_Pedro.pdf)
